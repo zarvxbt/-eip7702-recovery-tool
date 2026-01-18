@@ -1,4 +1,4 @@
- eip7702-recovery-tool
+# EIP-7702 Asset Recovery Tool
 
 Secure asset recovery tool powered by EIP-7702 technology.
 
