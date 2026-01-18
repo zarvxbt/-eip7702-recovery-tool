@@ -1,4 +1,4 @@
-# EIP-7702 Asset Recovery Tool
+Antirug Testnet Recovery Tool
 
 Secure asset recovery tool powered by EIP-7702 technology.
 
